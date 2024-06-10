@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 set PYTHON=
 set GIT=
